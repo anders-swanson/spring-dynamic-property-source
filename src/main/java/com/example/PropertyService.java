@@ -1,7 +1,5 @@
 package com.example;
 
-import java.sql.PreparedStatement;
-
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
